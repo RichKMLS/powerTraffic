@@ -1,5 +1,5 @@
 # powerTraffic
-PowerShell script that leverages Google Maps to quickly obtain traffic ETA between 2 locations based on GPS coordinates.
+PowerShell script that leverages Google Maps to quickly obtain traffic ETA between 2 locations based on GPS coordinates. Who needs a web browser?
 <br><br>
 ![powershelltraffic](https://user-images.githubusercontent.com/105183376/174414426-683661f0-c40e-4171-8c09-903fa50610de.PNG)
 <br><br>
